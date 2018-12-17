@@ -1,0 +1,107 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <?php include('include/head.php'); ?>
+
+    <style type="text/css">
+     
+    </style>
+    
+  </head>
+  <body>
+  <?php include('include/topnav.php'); ?>
+    <!-- Navigation -->
+    <?php include('include/navbar.php'); ?>
+
+    <header class="banner">
+         <div class="gradient"></div>
+          <div class="container">
+              <div class="row">
+                 <div class="col-sm-12 heading">
+                    <h3 data-aos="fade-right" data-aos-delay="300">শুধু ভাল শিক্ষাই নয় , প্রকৃত মানুষ হিসেবে গড়ে তোলার  প্রত্যয়ে</h3>
+                   
+                 </div>  
+              </div>
+          </div>
+    </header>
+
+<!-- About Section Start -->
+ <div id="about-us">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-6">
+       <div class="card">
+          <div class="card-header">
+            <h5>স্কুল শাখা -বাধ্যতামূলক প্রাথমিক শিক্ষা কে সবার কাছে সঠিকভাবে পৌছিয়ে দিতে আমাদের কার্যক্রম গুলো</h5>
+          </div>
+          <div class="card-body">
+          
+
+              * প্লে থেকে নার্সারি শিশুদের মাতৃ স্নেহে পাঠদান । <br>
+              * সঠিক নিয়মে বর্ণ শেখানো। <br>
+
+              * নিত্য প্রয়োজনীয় ব্যবহারিক ইংরেজি  word ও বাক্য শেখানো । <br>
+
+              * মেধা ও মেজাজ অনুযায়ী ব্লক সিস্টেমে পাঠদান করা । <br>
+              * বিনোধনের মাধ্যমে পাঠদান । <br>
+              * P.S.C পরীক্ষায় ভালো ফলাফল করার লক্ষ্যে তৃতীয় ও চতুর্থ শ্রেণি থেকেই সৃজনশীল প্রশ্নের উপর গুরুত্ব দেওয়া হয়। <br>
+              * P.S.C পরীক্ষায় ভালো ফলাফল অর্জনের  কৌশল গুলো তৃতীয় ও চতুর্থ শ্রেণী থেকেই ধারাবাহিক ভাবে রপ্ত করানো হয়। <br>
+          </div>
+        </div>
+     </div>
+      <div class="col-md-6">
+       <div class="card">
+          <div class="card-header">
+            <h5>আপনার সন্তানকে ধর্মীয় মূল্যবোধ সৃষ্টির লক্ষ্যে আমাদের রয়েছে জেনারেল শিক্ষার পাশাপাশি বাধ্যতামূলক কুরআন শিক্ষা কার্যক্রম </h5>
+          </div>
+          <div class="card-body">
+            * প্লে থেকে ২য় শ্রেণী পর্যন্ত চার বছর মেয়াদি মক্তব ও নূরানি বিভাগ।
+            * প্রয়োজনীয় সকল মাসালা মাসায়েল শিক্ষাদান। <br>
+            * ৬০ হাদিস শিক্ষা এবং কুরআন শিক্ষা । <br>
+            * ৩য় শ্রেণী থেকে বাধ্যতামূলক কুরআন পাঠ । <br>
+            * সকল প্রাপ্ত বয়স্ক বালক ও বালিকাদের বাধ্যতামূলক নামায আদায় নিশ্চিত করা। <br>
+            * নূরানি ট্রেনিং প্রাপ্ত শিক্ষক দ্বারা পাঠ নেওয়া হয়। <br>
+            * প্লে থেকে চতুর্থ শ্রেণী পর্যন্ত প্রতিদিন একটি করে ৫০ মিনিটের ক্লাস নেওয়া হয় । <br>
+            * তৃতীয় থেকে চতুর্থ শ্রেনির ছাত্র ছাত্রীদের প্রতিদিন ১ ঘন্টার কুরআন শিক্ষার ক্লাস পরিচালিত হয়। <br>
+            * নামায পড়ার জন্য রয়েছে ছেলে মেয়েদের আলদা ঘর।(প্রতিটিতে ৫০ জন ধারন ক্ষমতা) । <br>
+          </div>
+        </div>
+     </div>
+      </div>
+     
+     </div>
+</div>
+<!-- About Section End -->
+
+<!-- Footer -->
+<?php include('footer.php'); ?>
+<!-- Footer -->
+
+   
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+    <!-- Custom JavaScript -->
+    <script src="js/animate.js"></script>
+    <script src="js/custom.js"></script>
+<script>
+$('.carousel').carousel({
+  interval: 2000
+})
+    
+window.onscroll = function() {myFunction()};
+
+var header = document.getElementById("myHeader");
+var sticky = header.offsetTop;
+
+function myFunction() {
+  if (window.pageYOffset > sticky) {
+    header.classList.add("sticky");
+  } else {
+    header.classList.remove("sticky");
+  }
+}
+</script>
+  </body>
+</html>
